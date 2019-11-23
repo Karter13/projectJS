@@ -22,4 +22,4 @@ appData.expenses[question3] = question4;
 
 console.log(appData.budjet / 30);
 
-console.log(appData);
+
